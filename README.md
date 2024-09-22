@@ -8,4 +8,4 @@ Used Python, Pandas and Jupyter Notebook for data transformation and data cleani
 
 Used Matplotlib and Seaborn for data visualization and preliminary insights
 
-Built an interactive dashboard using Power BI to generate insights on the best 11 players. Inside Power BI, Power Query was used for further data transformation and DAX for parameter building
+Built an interactive dashboard using Power BI to generate insights on the best 11 players. Inside Power BI, Power Query was used for further data transformation 
