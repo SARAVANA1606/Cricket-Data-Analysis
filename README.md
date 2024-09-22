@@ -1,6 +1,6 @@
 # Cricket-Data-Analysis
 
-Performed data analytics on T20 world cup cricket (2022) data to build a team of dream 11 players
+Performed data analytics on T20 world cup cricket data to build a team of dream 11 players
 
 Presented the project to state level cricket academy and won the first prize 
 
