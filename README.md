@@ -2,8 +2,6 @@
 
 Performed data analytics on T20 world cup cricket data to build a team of dream 11 players
 
-Presented the project to state level cricket academy and won the first prize 
-
 Used web scraping (through bright data) to scrap T20 cricket world cup data from espncricinfo website
 
 Used Python, Pandas and Jupyter Notebook for data transformation and data cleaning
